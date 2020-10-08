@@ -1,2 +1,5 @@
-# Join_Org
-Repo to join organization.
+# Join the Organization.
+
+<br>
+
+To join the organization, Kindly create an issue :)
