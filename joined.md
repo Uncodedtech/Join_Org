@@ -1,4 +1,4 @@
-Please add {Your name} and {Your Github Profile Username}. <br>
+Please add {Your name} and {Your Github Profile Username} and submit your PR. <br>
 
 For example: <br> 
 
