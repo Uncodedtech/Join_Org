@@ -2,4 +2,4 @@
 
 <br>
 
-To join the organization, Kindly create an issue and add your info in the joined.md file :)
+To join the organization, Kindly create an <b>issue</b> and add your info in the ```joined.md``` file :)
