@@ -10,6 +10,7 @@ Members of the organization : <br>
 
 * Akshita Gupta [akshitagupta15june]
 * Jayant Goel[JayantGoel001]
+* Vaibhav Singhal[iamvs-2002]
 * Musavveer Rehaman [musavveer]
 *
 *
