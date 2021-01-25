@@ -12,5 +12,9 @@ Members of the organization : <br>
 * Jayant Goel[JayantGoel001]
 * Vaibhav Singhal[iamvs-2002]
 * Musavveer Rehaman [musavveer]
+
 * Jaskeerat Singh [Jassi1000]
+
+* Orion Joshi [khageshwor]
+
 *
