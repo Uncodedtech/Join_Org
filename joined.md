@@ -16,4 +16,6 @@ Members of the organization : <br>
 * Orion Joshi [khageshwor]
 * Keshav Garg [gargk747]
 * Kushal Das [Kushal997-das]
+* Ritish Sehgal [apex-blaze]
 * John Bampton [jbampton]
+
