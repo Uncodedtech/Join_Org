@@ -9,11 +9,13 @@ For example: <br>
 Members of the organization : <br>
 
 * Akshita Gupta [akshitagupta15june]
-* Jayant Goel[JayantGoel001]
-* Vaibhav Singhal[iamvs-2002]
+* Jayant Goel [JayantGoel001]
+* Vaibhav Singhal [iamvs-2002]
 * Musavveer Rehaman [musavveer]
 * Jaskeerat Singh [Jassi1000]
 * Orion Joshi [khageshwor]
 * Keshav Garg [gargk747]
 * Kushal Das [Kushal997-das]
 * Ritish Sehgal [apex-blaze]
+* John Bampton [jbampton]
+
