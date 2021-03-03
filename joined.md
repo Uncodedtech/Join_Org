@@ -1,8 +1,10 @@
+# Join the Organization
+
 Please add {Your name} and {Your Github Profile Username} and submit your PR. <br>
 
-For example: <br> 
+For example: <br>
 
-*  ``` my_name [my_github_profile_name] ```
+* ``` my_name [my_github_profile_name] ```
 
 <br>
 
@@ -18,4 +20,3 @@ Members of the organization : <br>
 * Kushal Das [Kushal997-das]
 * Ritish Sehgal [apex-blaze]
 * John Bampton [jbampton]
-
