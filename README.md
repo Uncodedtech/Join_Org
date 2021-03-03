@@ -1,4 +1,4 @@
-# Join the Organization.
+# Join the Organization
 
 <br>
 
@@ -10,6 +10,6 @@ To join the organization, Kindly : <br>
 
 * Add your info in the ```joined.md``` file.
 
-* Submit your PR. 
+* Submit your PR.
 
 ----------------------------------------------------
