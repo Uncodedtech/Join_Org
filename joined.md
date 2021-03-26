@@ -20,3 +20,4 @@ Members of the organization : <br>
 * Kushal Das [Kushal997-das]
 * Ritish Sehgal [apex-blaze]
 * John Bampton [jbampton]
+* Max Base [basemax]
