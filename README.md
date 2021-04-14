@@ -12,4 +12,11 @@ To join the organization, Kindly : <br>
 
 * Submit your PR.
 
+----------------------
+
+### Org. Maintainer
+
+[Suraj Verma](https://github.com/surajv311)
+
+------------------------------------
 ----------------------------------------------------
