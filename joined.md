@@ -22,3 +22,4 @@ Members of the organization : <br>
 * John Bampton [jbampton]
 * Max Base [basemax]
 * Arya Shah [aryashah2k]
+* Gentil D. Pinto [gentildpinto]
