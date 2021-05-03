@@ -23,3 +23,4 @@ Members of the organization : <br>
 * Max Base [basemax]
 * Arya Shah [aryashah2k]
 * Gentil D. Pinto [gentildpinto]
+* King David [kdgyimah]
