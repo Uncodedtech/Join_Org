@@ -29,3 +29,4 @@ Members of the organization : <br>
 * Thejaswin S [thejaswin123]
 * Avish Jha [avishj]
 * Himanshu [himanshu007-creator]
+* Sameer Sinha [sameer882000]
