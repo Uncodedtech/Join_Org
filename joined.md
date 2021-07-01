@@ -32,3 +32,4 @@ Members of the organization : <br>
 * Sameer Sinha [sameer882000]
 * Shannon A [shannon-nz]
 * A.H. [ahcodes]
+* Ridam Hazra [rhazra-003]
