@@ -20,6 +20,7 @@ Members of the organization : <br>
 * Kushal Das [Kushal997-das]
 * Ritish Sehgal [apex-blaze]
 * John Bampton [jbampton]
+* Priyansh Singh [ps-19]
 * Max Base [basemax]
 * Arya Shah [aryashah2k]
 * Gentil D. Pinto [gentildpinto]
