@@ -38,3 +38,4 @@ Members of the organization : <br>
 * AvidCoder101 [Avid Coder]
 * Coding Species [CodingSpecies]
 * Bravish Ghosh [LoopGlitch26]
+* Ritvik Shukla [shuklaritvik06]
