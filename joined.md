@@ -39,3 +39,4 @@ Members of the organization : <br>
 * Coding Species [CodingSpecies]
 * Bravish Ghosh [LoopGlitch26]
 * Ritvik Shukla [shuklaritvik06]
+* Easwaran S [varunwho]
