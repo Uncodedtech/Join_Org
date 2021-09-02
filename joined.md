@@ -40,3 +40,4 @@ Members of the organization : <br>
 * Bravish Ghosh [LoopGlitch26]
 * Ritvik Shukla [shuklaritvik06]
 * Easwaran S [varunwho]
+* Subhampreet Mohanty [Subhampreet]
