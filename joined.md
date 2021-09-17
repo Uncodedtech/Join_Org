@@ -43,3 +43,4 @@ Members of the organization : <br>
 * Easwaran S [varunwho]
 * Subhampreet Mohanty [Subhampreet]
 * Sourav Bera [Zeo-shark]
+* Aayush Jain [aayush89890]
