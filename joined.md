@@ -52,3 +52,5 @@ Members of the organization : <br>
 * Susmita Dey [Susmita-Dey]
 * Ossama Mehmood [ossamamehmood]
 * Bikram Ghuku[Bikram-ghuku]
+* Tamal Das [IAmTamal]
+* Subham Surana [Neklaustares-tPtwP]
