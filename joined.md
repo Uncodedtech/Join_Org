@@ -10,6 +10,7 @@ For example: <br>
 
 Members of the organization : <br>
 
+* Akshat Mittal [[akshatmittal61](https://github.com/akshatmittal61)]
 * Samrat Mitra [lionelsamrat10]
 * Akshita Gupta [akshitagupta15june]
 * Jayant Goel [JayantGoel001]
