@@ -9,7 +9,7 @@ For example: <br>
 <br>
 
 Members of the organization : <br>
-
+* Gaurab Kundu [GaurabKundu1]
 * Samrat Mitra [lionelsamrat10]
 * Akshita Gupta [akshitagupta15june]
 * Jayant Goel [JayantGoel001]
