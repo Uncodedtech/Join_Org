@@ -22,6 +22,7 @@ Members of the organization : <br>
 * Ritish Sehgal [apex-blaze]
 * John Bampton [jbampton]
 * Priyansh Singh [ps-19]
+* Pratik Wadhai [pratik-wadhai]
 * Max Base [basemax]
 * Arya Shah [aryashah2k]
 * Gentil D. Pinto [gentildpinto]
