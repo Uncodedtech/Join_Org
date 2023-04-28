@@ -31,6 +31,7 @@ Members of the organization : <br>
 * Thejaswin S [thejaswin123]
 * Avish Jha [avishj]
 * Himanshu [himanshu007-creator]
+* Harish Rane[AZADRANE]
 * Sameer Sinha [sameer882000]
 * Shannon A [shannon-nz]
 * Mark Jesper [mark123jesper]
