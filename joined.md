@@ -11,6 +11,7 @@ For example: <br>
 Members of the organization : <br>
 
 * Samrat Mitra [lionelsamrat10]
+* Anas Farooq [anasfarock]
 * Akshita Gupta [akshitagupta15june]
 * Jayant Goel [JayantGoel001]
 * Vaibhav Singhal [iamvs-2002]
